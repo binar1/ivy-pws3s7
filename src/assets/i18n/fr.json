@@ -1,7 +1,7 @@
 {
   "locale": "fr",
   "translations": {
-    "4571727307714732203": "Bienvenue à la démo de {$PH}!!",
+    "4571727307714732203": "Welcome à la démo de {$PH}!!",
     "8131340669486658877": "Ça fonctionne!",
     "foo": "id personnalisé"
   }
